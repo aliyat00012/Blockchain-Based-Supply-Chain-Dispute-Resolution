@@ -5,3 +5,5 @@ S
 #contracts/dispute-registration.clar,d/1/d10f32202a9dcd7a97f62e80ce56c7cde2a8292c
 R
 "contracts/entity-verification.clar,6/6/660a74c2729ef5ed0792e040998f714055016c6e
+T
+$contracts/transaction-recording.clar,2/a/2a3fc63b6b3ef4237bbc8fa212854f39f8f54d8e
